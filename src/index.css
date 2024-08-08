@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#zone{
+    margin-top: -40px;
+}
+
