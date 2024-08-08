@@ -5,7 +5,7 @@ import { IoIosSend } from "react-icons/io";
 import { SiElasticstack } from "react-icons/si";
 import { FaInbox } from "react-icons/fa";
 import { IoStatsChartSharp } from "react-icons/io5";
-import logo from '../assets/mail.svg';
+import logo from '../assets/logo.svg';
 
 function SideBar({ onMenuItemClick }: any) {
   const [selectedItem, setSelectedItem] = useState('/'); // Initialize with the default path
